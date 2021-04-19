@@ -8,12 +8,12 @@ from lib.watchdog.events import LoggingEventHandler
 
 # 다중 옵저버 띄우기 테스트(리스트)_windows_테스트 완료
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO,
+    logging.basicConfig(filename='./pc_log',
+                        level=logging.INFO,
                         format='%(asctime)s - %(message)s',
                         datefmt='%Y-%m-%d %H:%M:%S')
     paths = list(win32api.GetLogicalDriveStrings().split('\000')[:-1])
     event_handler = LoggingEventHandler()
-
     cdDrive = wmi.WMI()
 
     for path in paths:
