@@ -1,8 +1,37 @@
 import sys
 import logging
 import win32api
+import wmi
 from lib.watchdog.observers import Observer
 from lib.watchdog.events import LoggingEventHandler
+
+
+# 다중 옵저버 띄우기 테스트(리스트)_windows_테스트 완료
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO,
+                        format='%(asctime)s - %(message)s',
+                        datefmt='%Y-%m-%d %H:%M:%S')
+    paths = list(win32api.GetLogicalDriveStrings().split('\000')[:-1])
+    event_handler = LoggingEventHandler()
+
+    cdDrive = wmi.WMI()
+
+    for path in paths:
+        for cdrom in cdDrive.Win32_CDROMDrive():
+            if path == cdrom.Drive+'\\':
+                paths.remove(cdrom.Drive + '\\')
+
+    for path in paths:
+        observer = Observer()
+        observer.schedule(event_handler, path + '\\', recursive=True)
+        observer.start()
+
+    try:
+        while observer.isAlive():
+            observer.join(1)
+    except KeyboardInterrupt:
+        observer.stop()
+    observer.join()
 
 # 단일 옵저버 띄우기 테스트 완료
 # if __name__ == "__main__":
@@ -43,27 +72,4 @@ from lib.watchdog.events import LoggingEventHandler
 #     observer1.join()
 
 
-
-# 다중 옵저버 띄우기 테스트(리스트)
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO,
-                        format='%(asctime)s - %(message)s',
-                        datefmt='%Y-%m-%d %H:%M:%S')
-    drives = win32api.GetLogicalDriveStrings().split('\000')[:-1]
-    event_handler = LoggingEventHandler()
-    paths = []
-
-    for drive in drives:
-        paths.append(drive + '\\')
-
-    for path in paths:
-        observer = Observer()
-        observer.schedule(event_handler, path, recursive=True)
-        observer.start()
-    try:
-        while observer.isAlive():
-            observer.join(1)
-    except KeyboardInterrupt:
-        observer.stop()
-    observer.join()
 
