@@ -5,14 +5,16 @@ import wmi
 import lib.fileIO.readFile as readFile
 from lib.watchdog.observers import Observer
 from lib.watchdog.events import LoggingEventHandler
+import os
 
+current_location = str(os.path.abspath(os.path.dirname(sys.argv[0])))
 fileMaxByte = 1024 * 1024 * 10
 readFile.readFile()
 
 
 # 다중 옵저버 띄우기 테스트(리스트)_windows_테스트 완료
 if __name__ == "__main__":
-    logging.basicConfig(filename='./pc_log.txt',
+    logging.basicConfig(filename=current_location+'\\pc_log.txt',
                         level=logging.INFO,
                         datefmt='%Y-%m-%d %H:%M:%S',
                         # format='%(asctime)s - %(message)s',

@@ -2,6 +2,10 @@ import threading
 import os.path
 import lib.api.er_api as api
 import lib.fileIO.trie as trie
+import os
+import sys
+
+current_location = str(os.path.abspath(os.path.dirname(sys.argv[0])))
 
 
 def line_formatter(line):
@@ -19,11 +23,11 @@ def remove_header(line):
 
 def readFile():
 
-    if not os.path.isfile("./pc_log.txt"):
-        f = open("./pc_log.txt", 'w')
+    if not os.path.isfile(current_location+'\\pc_log.txt'):
+        f = open(current_location+'\\pc_log.txt', 'w')
         f.close()
 
-    f = open("./pc_log.txt", 'r+')
+    f = open(current_location+'\\pc_log.txt', 'r+')
     lines = f.readlines()
     f.truncate(0)
     f.close()
