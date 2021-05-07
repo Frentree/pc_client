@@ -2,16 +2,22 @@ import sys
 import logging
 import win32api
 import wmi
+import lib.fileIO.readFile as readFile
 from lib.watchdog.observers import Observer
 from lib.watchdog.events import LoggingEventHandler
+
+fileMaxByte = 1024 * 1024 * 10
+readFile.readFile()
 
 
 # 다중 옵저버 띄우기 테스트(리스트)_windows_테스트 완료
 if __name__ == "__main__":
-    logging.basicConfig(filename='./pc_log',
+    logging.basicConfig(filename='./pc_log.txt',
                         level=logging.INFO,
-                        format='%(asctime)s - %(message)s',
-                        datefmt='%Y-%m-%d %H:%M:%S')
+                        datefmt='%Y-%m-%d %H:%M:%S',
+                        # format='%(asctime)s - %(message)s',
+                        format='%(message)s'
+                        )
     paths = list(win32api.GetLogicalDriveStrings().split('\000')[:-1])
     event_handler = LoggingEventHandler()
     cdDrive = wmi.WMI()
@@ -28,6 +34,7 @@ if __name__ == "__main__":
 
     try:
         while observer.isAlive():
+
             observer.join(1)
     except KeyboardInterrupt:
         observer.stop()
