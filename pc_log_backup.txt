@@ -1,0 +1,116 @@
+Modified directory: D:\\DEV\drive_watcher\erpy\prj
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Created file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\b2fddee5-cb4f-4471-bb0c-cb32b1d148f6.tmp
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\b2fddee5-cb4f-4471-bb0c-cb32b1d148f6.tmp
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\b2fddee5-cb4f-4471-bb0c-cb32b1d148f6.tmp
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data
+Created file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Local State~RF6699cbf.TMP
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data
+Deleted file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Local State~RF6699cbf.TMP
+Moved file: from C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Local State to C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Local State~RF6699cbf.TMP
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data
+Moved file: from C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\b2fddee5-cb4f-4471-bb0c-cb32b1d148f6.tmp to C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Local State
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Local State
+Deleted file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Local State~RF6699cbf.TMP
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data
+2021-04-20 00:51:54,877 - Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+2021-04-20 00:51:54,878 - Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+2021-04-20 00:51:55,344 - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL-journal
+2021-04-20 00:51:55,344 - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL-journal
+2021-04-20 00:51:55,345 - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL
+2021-04-20 00:51:55,345 - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL-journal
+2021-04-20 00:51:55,345 - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL-journal
+2021-04-20 00:51:55,647 - Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:51:55,647 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:51:55,647 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:51:55,648 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:51:55,648 - Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+2021-04-20 00:51:55,649 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:51:55,659 - Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:51:55,660 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+2021-04-20 00:51:55,660 - Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+2021-04-20 00:51:55,661 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+2021-04-20 00:53:55,uuu - Modified file: D:\\DEV\drive_watcher\erpy\prj\.git\FETCH_HEAD
+2021-04-20 00:53:55,uuu - Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
+2021-04-20 00:53:55,uuu - Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
+2021-04-20 00:53:55,uuu - Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
+2021-04-20 00:53:55,uuu - Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
+2021-04-20 00:53:55,uuu - Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
+2021-04-20 00:53:56,uuu - Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
+2021-04-20 00:53:56,uuu - Modified file: D:\\DEV\drive_watcher\erpy\prj\.git\FETCH_HEAD
+2021-04-20 00:53:56,uuu - Modified file: C:\\Users\junhyun\autoClick\sslkeyuser
+2021-04-20 00:53:56,uuu - Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:53:56,uuu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:53:56,uuu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:53:56,uuu - Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+2021-04-20 00:53:56,uuu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:53:56,uuu - Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:53:56,uuu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+2021-04-20 00:53:56,uuu - Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+2021-04-20 00:53:56,uuu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+2021-04-20 00:53:57,uuu - Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
+2021-04-20 00:53:58,uuu - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream.len
+2021-04-20 00:53:58,uuu - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream
+2021-04-20 00:53:58,uuu - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes_i
+2021-04-20 00:53:58,uuu - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes
+2021-04-20 00:54:13,222 - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream.len
+2021-04-20 00:54:13,222 - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream
+2021-04-20 00:54:13,222 - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes_i
+2021-04-20 00:54:13,222 - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes
+2021-04-20 00:54:40,2uu - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat.keystream.len
+2021-04-20 00:54:40,2uu - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat.keystream
+2021-04-20 00:54:40,2uu - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat_i
+2021-04-20 00:54:40,2uu - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat
+2021-04-20 00:54:40,2uu - Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\records.dat
+2021-04-20 00:54:42,2uu - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+2021-04-20 00:54:42,2uu - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+2021-04-20 00:54:42,2uu - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies
+2021-04-20 00:54:42,2uu - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+2021-04-20 00:54:42,2uu - Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+2021-04-20 00:54:43,2uu - Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:54:43,2uu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:54:43,2uu - Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+2021-04-20 00:54:43,2uu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:54:43,2uu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:54:43,2uu - Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-20 00:54:43,2uu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+2021-04-20 00:54:43,2uu - Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+2021-04-20 00:54:43,2uu - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+2021-04-21 11:52:07 - Modified directory: C:\\Program Files\AhnLab\Safe Transaction\DB
+2021-04-21 11:52:07 - Created file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+2021-04-21 11:52:07 - Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+2021-04-21 11:52:07 - Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+2021-04-21 11:52:07 - Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+2021-04-21 11:52:07 - Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db
+2021-04-21 11:52:07 - Deleted file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+2021-04-21 11:52:09 - Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-21 11:52:09 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-21 11:52:09 - Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+2021-04-21 11:52:09 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-21 11:52:09 - Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+2021-04-21 11:52:09 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+2021-04-21 11:52:09 - Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+2021-04-21 11:52:09 - Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+2021-04-21 11:52:11 - Created file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+2021-04-21 11:52:11 - Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+2021-04-21 11:52:11 - Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+2021-04-21 11:52:11 - Modified directory: C:\\Windows\System32\spp\store\2.0
+2021-04-21 11:52:11 - Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.tmp to C:\\Windows\System32\spp\store\2.0\data.dat.bak
+2021-04-21 11:52:11 - Modified directory: C:\\Windows\System32\spp\store\2.0
+2021-04-21 11:52:11 - Deleted file: C:\\Windows\System32\spp\store\2.0\data.dat
+2021-04-21 11:52:11 - Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.bak to C:\\Windows\System32\spp\store\2.0\data.dat
+2021-04-21 11:52:11 - Modified directory: C:\\Windows\System32\spp\store\2.0
+2021-04-21 11:52:11 - Created file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+2021-04-21 11:52:11 - Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+2021-04-21 11:52:11 - Modified directory: C:\\Windows\System32\spp\store\2.0
+2021-04-21 11:52:11 - Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.tmp to C:\\Windows\System32\spp\store\2.0\data.dat.bak
+2021-04-21 11:52:11 - Modified directory: C:\\Windows\System32\spp\store\2.0
+2021-04-21 11:52:11 - Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.bak
+2021-04-21 11:52:11 - Deleted file: C:\\Windows\System32\spp\store\2.0\data.dat
+2021-04-21 11:52:11 - Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.bak to C:\\Windows\System32\spp\store\2.0\data.dat
+2021-04-21 11:52:11 - Modified directory: C:\\Windows\System32\spp\store\2.0

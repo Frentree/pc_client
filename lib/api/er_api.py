@@ -115,88 +115,6 @@ def set_targets(paths):
     tJson["label"] = hostname + " " + datetime.datetime.now().strftime(('%Y-%m-%d %H:%M:%S'))
     tJson["start"] = (datetime.datetime.now() + datetime.timedelta(minutes=10)).strftime('%Y-%m-%d %H:%M')
 
-    # for path in paths:
-    #     tmp.append({"id": locations, "subpath": path})
-
-    # tJson['targets']['locations'].append({"id": "8987302884414283716", "subpath": "\\usr\\"})
-    # print(tJson['targets']['locations'])
-
-
-    # appointment1 = {'soccer': {
-    #     'day': 20,
-    #     'month': 'april'
-    # }
-    #
-    # }
-    # appointment2 = {
-    #     'gym': {
-    #         'day': 5,
-    #         'month': 'may'
-    #     }
-    # }
-    # appointment = {**appointment1, **appointment2}
-    # print(appointment)
-
-
-    # targets를 만들어 넣으면 locations가 덮어씌여 지기 때문에
-    # locations를 만드는 것으로 접근
-    # for path in paths:
-    #     print(path)
-    #     tmp = [{"targets": [{"id": target_id,
-    #               "locations":
-    #                   [{"id": locations, "subpath": path},]}]}]
-    #     # update
-    #     # tJson = {**tJson, **tmp}
-    #     print(tmp)
-    #     tJson.update(tmp)
-    #     print(tJson)
-
-    # locations 만들어서 targets에 넣는 방향
-    # a = {}
-    # d = defaultdict(lambda: defaultdict(list))
-    # for path in paths:
-    #     tmp = {"locations": [{"id": locations, "subpath": path},]}
-    #     print(tmp)
-    #     # a = {**a, **tmp}
-    #     d['a'].append(tmp)
-    #     print(a)
-
-    # switches = {'s1': {'port1': [[0, 0, 0], [1, 1, 1]], 'port2': [2, 2, 2]}}
-    # d = defaultdict(lambda: defaultdict(list))
-    # d['s1']['port1'].append([{"id": locations, "subpath": "test"}])
-    # d['s1']['port1'].append([{"id": locations, "subpath": "test2"}])
-    # d['s1']['port2'].append([2, 2, 2])
-    # print(d)
-    # print(json.dumps(d))
-
-
-    # print({**tmpJson, **tmp})
-
-    # while paths:
-    #     tmp.append(
-    #         '{"id": ' +
-    #         locations +
-    #         "," +
-    #         '"subpath": ' +
-    #         paths.pop() +
-    #         '},'
-    #     )
-
-
-    # print(paths)
-    # print(tmp)
-    # tmp = str(tmp).replace(",'", "").replace("'{", "{")
-    # print(tmp)
-
-
-    # tJson["targets"] = '[{' + ""'"' + 'id' + ""'"' + ": " + '"' + target_id + '"' + ',' \
-    #                    + '"locations" :' \
-    #                    + tmp \
-    #                    + '}],'
-
-
-
-    # print(tJson)
     print(tJson)
     return tJson
 
@@ -204,31 +122,5 @@ def set_targets(paths):
 def er_api(paths):
     api = Api()
 
-    # api.post("/schedules", tmpJson)
-
-    # groups = api.get("/groups/all")
-
-    # print(groups)
-    # print(type(groups))
-
-    # jsonGroups = json.dumps(groups)
-    # print(jsonGroups)
-    # print(type(jsonGroups))
-
-    # test = ['{"id": 8987302884414283716,"subpath": C:\\\\Windows\\System32\\spp\\store\\2.0\\data.dat},', '{"id": 8987302884414283716,"subpath": C:\\\\Program Files\\AhnLab\\Safe Transaction\\MeD\\Definition\\mdp.asd},', '{"id": 8987302884414283716,"subpath": C:\\\\Users\\junhyun\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network Persistent State},']
-    # print(test.pop())
-
-    # api.cancelScheduledByTargetId()
-
     if paths:
         api.post("/schedules", set_targets(paths))
-        # set_targets(hostname, start, paths)
-
-"""
-Json 수정 내용
-
-label,
-targets(target_id, location_id and subpath),
-profiles(Django API 생성 후)
-start
-"""

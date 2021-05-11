@@ -33,11 +33,7 @@ def readFile():
     f.close()
     t = trie.Trie()
 
-    # remove is impossible since observer has locked log file
-    # so the f.truncate(0) method is applicable
-    # os.remove("D:\DEV\drive_watcher\erpy\prj\pc_log.txt")
-
-    if lines:
+    if lines: # 헤더에 따른 처리
         for line in lines:
             if line.startswith("Created file"):
                 t.insert(line_formatter(remove_header(line)))
@@ -50,33 +46,12 @@ def readFile():
             elif line.startswith("Deleted file"):
                 t.delete(line_formatter(remove_header(line)))
 
-    # f = open("D:\DEV\drive_watcher\erpy\prj\query_result.txt", 'a+')
-    # print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-    # result = str(t.query()).split(", ")
-    # for path in result:
-    #     f.write(path)
-    #     f.write("\n")
-    # print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+    paths = t.query() # 검색 대상 경로 리스트 리턴
 
-
-    # print("test")
-    # f = open("D:\DEV\drive_watcher\erpy\prj\pc_log_test.txt", 'a+')
-    #
-    # for i in range(1, 11):
-    #     data = "%d line\n" % i
-    #     f.write(data)
-    # f.close()
-
-    paths = t.query()
-
-    if paths:
+    if paths: # 검색 실행을 위해 검색 대상 경로 리스트를 스트링 처리
         for i in range(len(paths)):
             paths[i] = paths[i].replace("\\\\", "", 1)
             paths[i] = paths[i].replace(":\\", ":\\\\", 1)
     api.er_api(paths)
 
-    threading.Timer(600, readFile).start()
-
-
-
-
+    threading.Timer(600, readFile).start() # 개별 스레드로 재실행

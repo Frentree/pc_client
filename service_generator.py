@@ -9,7 +9,7 @@ import subprocess
 import os
 import psutil
 
-
+# 프로세스가 실행중인지 확인
 def checkIfProcessRunning(processName):
     '''
     Check if there is any running process that contains the given name processName.
@@ -24,7 +24,7 @@ def checkIfProcessRunning(processName):
             pass
     return False
 
-
+# 서비스 생성 및 관리
 class ServiceGenerator(win32serviceutil.ServiceFramework):
     _svc_name_ = "erwatch"
     _svc_display_name_ = "erwatch"

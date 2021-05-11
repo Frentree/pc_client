@@ -9,7 +9,7 @@ import os
 
 current_location = str(os.path.abspath(os.path.dirname(sys.argv[0])))
 fileMaxByte = 1024 * 1024 * 10
-readFile.readFile()
+readFile.readFile() # 변경파일 리드 프로세스 실행
 
 
 # 다중 옵저버 띄우기 테스트(리스트)_windows_테스트 완료
@@ -19,17 +19,17 @@ if __name__ == "__main__":
                         datefmt='%Y-%m-%d %H:%M:%S',
                         # format='%(asctime)s - %(message)s',
                         format='%(message)s'
-                        )
+                        ) # 로깅
     paths = list(win32api.GetLogicalDriveStrings().split('\000')[:-1])
     event_handler = LoggingEventHandler()
-    cdDrive = wmi.WMI()
+    cdDrive = wmi.WMI() # CD롬 드라이브 저장
 
-    for path in paths:
+    for path in paths: # CD롬 드라이브 제거
         for cdrom in cdDrive.Win32_CDROMDrive():
             if path == cdrom.Drive+'\\':
                 paths.remove(cdrom.Drive + '\\')
 
-    for path in paths:
+    for path in paths: # 각 드라이브 별 옵저버 실행
         observer = Observer()
         observer.schedule(event_handler, path + '\\', recursive=True)
         observer.start()
@@ -41,44 +41,3 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         observer.stop()
     observer.join()
-
-# 단일 옵저버 띄우기 테스트 완료
-# if __name__ == "__main__":
-#     logging.basicConfig(level=logging.INFO,
-#                         format='%(asctime)s - %(message)s',
-#                         datefmt='%Y-%m-%d %H:%M:%S')
-#     path = 'C:\\' # sys.argv[1] if len(sys.argv) > 1 else '.'
-#     event_handler = LoggingEventHandler()
-#     observer = Observer()
-#     observer.schedule(event_handler, path, recursive=True)
-#     observer.start()
-#     try:
-#         while observer.isAlive():
-#             observer.join(1)
-#     except KeyboardInterrupt:
-#         observer.stop()
-#     observer.join()
-
-# 다중 옵저버 띄우기 테스트(하드코딩)
-# if __name__ == "__main__":
-#     logging.basicConfig(level=logging.INFO,
-#                         format='%(asctime)s - %(message)s',
-#                         datefmt='%Y-%m-%d %H:%M:%S')
-#     path1 = 'C:\\' # sys.argv[1] if len(sys.argv) > 1 else '.'
-#     path2 = 'D:\\'
-#     event_handler = LoggingEventHandler()
-#     observer1 = Observer()
-#     observer1.schedule(event_handler, path1, recursive=True)
-#     observer1.start()
-#     observer2 = Observer()
-#     observer2.schedule(event_handler, path2, recursive=True)
-#     observer2.start()
-#     try:
-#         while observer1.isAlive():
-#             observer1.join(1)
-#     except KeyboardInterrupt:
-#         observer1.stop()
-#     observer1.join()
-
-
-
