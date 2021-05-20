@@ -1,288 +1,105 @@
-Modified directory: C:\\Users\junhyun\AppData\Local\Temp
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\9b9cdc69c1c24e2b.automaticDestinations-ms
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\9b9cdc69c1c24e2b.automaticDestinations-ms
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream.len
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Deleted file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\pc_log.txt.lnk
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified directory: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent
-Created file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\pc_log.txt.lnk
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\pc_log.txt.lnk
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\5f7b5f1e01b83767.automaticDestinations-ms
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\5f7b5f1e01b83767.automaticDestinations-ms
-Deleted file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\prj.lnk
-Modified directory: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent
-Created file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\prj.lnk
-Modified directory: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\prj.lnk
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes
-Moved file: from C:\\ProgramData\Microsoft\Search\Data\Applications\Windows\edb.jtx to C:\\ProgramData\Microsoft\Search\Data\Applications\Windows\edb009DB.jtx
-Modified file: C:\\ProgramData\Microsoft\Search\Data\Applications\Windows
-Moved file: from C:\\ProgramData\Microsoft\Search\Data\Applications\Windows\edbtmp.jtx to C:\\ProgramData\Microsoft\Search\Data\Applications\Windows\edb.jtx
-Modified file: C:\\ProgramData\Microsoft\Search\Data\Applications\Windows
-Moved file: from C:\\ProgramData\Microsoft\Search\Data\Applications\Windows\edb009D7.jtx to C:\\ProgramData\Microsoft\Search\Data\Applications\Windows\edbtmp.jtx
-Modified file: C:\\ProgramData\Microsoft\Search\Data\Applications\Windows
-Modified file: C:\\ProgramData\Microsoft\Search\Data\Applications\Windows\edbtmp.jtx
-Modified file: C:\\ProgramData\Microsoft\Search\Data\Applications\Windows\edb009DB.jtx
 Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
 Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
-Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
 Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Sessions\Session_13264849194536424
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat.keystream
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\records.dat
-Modified file: C:\\Users\junhyun\AppData\Local\Microsoft\Windows\WebCache\V01.chk
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\todoindex\values.values.at
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\todoindex\values_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\todoindex\values
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId.keystream
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId_i
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\idindex\values.values.at
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\idindex\values_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\idindex\values
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId.keystream
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\trigram.index\values.values.at
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\trigram.index\values_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\trigram.index\values
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\hashfragmentindex\fileIdToHashId_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\hashfragmentindex\fileIdToHashId
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\hashfragmentindex\values.values.at
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\hashfragmentindex\values_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\hashfragmentindex\values
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\hashfragmentindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\hashfragmentindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\hashfragmentindex\compositeHashId.keystream
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\hashfragmentindex\compositeHashId_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\hashfragmentindex\compositeHashId
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
-Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Sessions\Session_13264849194536424
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\QuotaManager-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\QuotaManager-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\QuotaManager
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\QuotaManager-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\QuotaManager-journal
 Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
 Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
 Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Windows\Prefetch\SMARTSCREEN.EXE-3A39E32D.pf
-Modified file: C:\\Windows\Prefetch\SMARTSCREEN.EXE-3A39E32D.pf
-Modified file: C:\\Windows\Prefetch\NOTEPAD.EXE-B28CC291.pf
-Modified file: C:\\Windows\Prefetch\NOTEPAD.EXE-B28CC291.pf
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-C6CFE2A8.pf
-Modified file: C:\\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-C6CFE2A8.pf
-Modified file: C:\\Windows\Prefetch\SEARCHFILTERHOST.EXE-10E4267C.pf
-Modified file: C:\\Windows\Prefetch\SEARCHFILTERHOST.EXE-10E4267C.pf
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Sessions\Session_13264849194536424
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+Created file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified directory: C:\\Program Files\AhnLab\Safe Transaction\DB
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db
+Deleted file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified directory: C:\\Program Files\AhnLab\Safe Transaction\DB
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
 Created file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
-Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
-Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
 Modified directory: C:\\Windows\System32\spp\store\2.0
+Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
 Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.tmp to C:\\Windows\System32\spp\store\2.0\data.dat.bak
 Modified directory: C:\\Windows\System32\spp\store\2.0
 Deleted file: C:\\Windows\System32\spp\store\2.0\data.dat
 Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.bak to C:\\Windows\System32\spp\store\2.0\data.dat
 Modified directory: C:\\Windows\System32\spp\store\2.0
-Modified directory: D:\\DEV\drive_watcher\erpy\prj\.idea
 Created file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
-Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
-Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
 Modified directory: C:\\Windows\System32\spp\store\2.0
+Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
 Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.tmp to C:\\Windows\System32\spp\store\2.0\data.dat.bak
 Modified directory: C:\\Windows\System32\spp\store\2.0
 Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.bak
 Deleted file: C:\\Windows\System32\spp\store\2.0\data.dat
 Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.bak to C:\\Windows\System32\spp\store\2.0\data.dat
 Modified directory: C:\\Windows\System32\spp\store\2.0
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
 Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Modified file: C:\\Users\junhyun\AppData\Local\Microsoft\Windows\INetCache\IE\X3FQUL6C\adBanner[1].htm
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\MeD\Definition\mdp.asd
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
 Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
@@ -293,6 +110,177 @@ Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\R
 Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL
 Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL-journal
 Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL-journal
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Modified file: D:\\outlook backup\200205.pst
+Modified file: D:\\outlook backup\200205.pst
+Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+Created file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\c887feb8-32f2-456c-97e0-a934e4123ae1.tmp
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\c887feb8-32f2-456c-97e0-a934e4123ae1.tmp
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\c887feb8-32f2-456c-97e0-a934e4123ae1.tmp
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\c887feb8-32f2-456c-97e0-a934e4123ae1.tmp
+Created file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State~RF75c7b9c.TMP
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
+Deleted file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State~RF75c7b9c.TMP
+Moved file: from C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State to C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State~RF75c7b9c.TMP
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
+Moved file: from C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\c887feb8-32f2-456c-97e0-a934e4123ae1.tmp to C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State
+Deleted file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State~RF75c7b9c.TMP
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Created file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+Modified directory: C:\\Windows\System32\spp\store\2.0
+Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.tmp to C:\\Windows\System32\spp\store\2.0\data.dat.bak
+Modified directory: C:\\Windows\System32\spp\store\2.0
+Deleted file: C:\\Windows\System32\spp\store\2.0\data.dat
+Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.bak to C:\\Windows\System32\spp\store\2.0\data.dat
+Modified directory: C:\\Windows\System32\spp\store\2.0
+Created file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+Modified directory: C:\\Windows\System32\spp\store\2.0
+Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.tmp
+Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.tmp to C:\\Windows\System32\spp\store\2.0\data.dat.bak
+Modified directory: C:\\Windows\System32\spp\store\2.0
+Modified file: C:\\Windows\System32\spp\store\2.0\data.dat.bak
+Deleted file: C:\\Windows\System32\spp\store\2.0\data.dat
+Moved file: from C:\\Windows\System32\spp\store\2.0\data.dat.bak to C:\\Windows\System32\spp\store\2.0\data.dat
+Modified directory: C:\\Windows\System32\spp\store\2.0
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+Modified file: C:\\Windows\System32\spp\store\2.0\cache\cache.dat
+Created file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified directory: C:\\Program Files\AhnLab\Safe Transaction\DB
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db
+Deleted file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
+Modified directory: C:\\Program Files\AhnLab\Safe Transaction\DB
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\MeD\Definition\url.asd
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\MeD\Definition\url.asd
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Created file: D:\\DEV\drive_watcher\erpy\prj\.idea\workspace.xml~
+Modified directory: D:\\DEV\drive_watcher\erpy\prj\.idea
+Modified file: D:\\DEV\drive_watcher\erpy\prj\.idea\workspace.xml~
+Modified file: D:\\DEV\drive_watcher\erpy\prj\.idea\workspace.xml~
+Modified file: D:\\DEV\drive_watcher\erpy\prj\.idea\workspace.xml
+Modified file: D:\\DEV\drive_watcher\erpy\prj\.idea\workspace.xml
+Modified file: D:\\DEV\drive_watcher\erpy\prj\.idea\workspace.xml
+Modified file: D:\\DEV\drive_watcher\erpy\prj\.idea\workspace.xml
+Deleted file: D:\\DEV\drive_watcher\erpy\prj\.idea\workspace.xml~
+Modified directory: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace
+Created file: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace\1rCpKMlRD3OUm8VAOhPs6cdmWKr.xml~
+Modified directory: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace
+Modified file: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace\1rCpKMlRD3OUm8VAOhPs6cdmWKr.xml~
+Modified file: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace\1rCpKMlRD3OUm8VAOhPs6cdmWKr.xml~
+Modified file: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace\1rCpKMlRD3OUm8VAOhPs6cdmWKr.xml
+Modified file: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace\1rCpKMlRD3OUm8VAOhPs6cdmWKr.xml
+Modified file: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace\1rCpKMlRD3OUm8VAOhPs6cdmWKr.xml
+Deleted file: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace\1rCpKMlRD3OUm8VAOhPs6cdmWKr.xml~
+Modified directory: C:\\Users\junhyun\AppData\Roaming\JetBrains\PyCharm2021.1\workspace
+Modified file: C:\\Windows\Prefetch\GIT.EXE-16967FC1.pf
+Modified file: C:\\Windows\Prefetch\GIT.EXE-16967FC1.pf
+Modified file: C:\\Windows\Prefetch\GIT.EXE-8165BDB0.pf
+Modified file: C:\\Windows\Prefetch\GIT.EXE-8165BDB0.pf
+Modified file: C:\\Windows\Prefetch\RUNNERW64.EXE-096DA556.pf
+Modified file: C:\\Windows\Prefetch\RUNNERW64.EXE-096DA556.pf
+Modified file: C:\\Windows\Prefetch\CONHOST.EXE-F98A1078.pf
+Modified file: C:\\Windows\Prefetch\CONHOST.EXE-F98A1078.pf
 Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
 Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
 Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
@@ -312,148 +300,41 @@ Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
 Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
 Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
 Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
 Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Created file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\5a820afc-0c93-49bc-9039-f3b0ba103b06.tmp
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\5a820afc-0c93-49bc-9039-f3b0ba103b06.tmp
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\5a820afc-0c93-49bc-9039-f3b0ba103b06.tmp
-Created file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF13895c25.TMP
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Deleted file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF13895c25.TMP
-Moved file: from C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Preferences to C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF13895c25.TMP
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\5a820afc-0c93-49bc-9039-f3b0ba103b06.tmp
-Moved file: from C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\5a820afc-0c93-49bc-9039-f3b0ba103b06.tmp to C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Preferences
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Preferences
-Deleted file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF13895c25.TMP
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
+Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
+Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
+Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
+Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Sessions\Session_13265967500367220
+Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Sessions
+Modified directory: D:\\DEV\drive_watcher\erpy\prj\.idea
 Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Windows\Prefetch\SVCHOST.EXE-94BFFE1F.pf
-Modified file: C:\\Windows\Prefetch\SVCHOST.EXE-94BFFE1F.pf
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream.len
 Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream.len
 Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream.len
 Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes.keystream
 Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes_i
 Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\textContentHashes
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Sessions\Session_13264849194536424
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat.keystream.len
-Created file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Deleted file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert9.db-journal
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat.keystream
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\cert8.db
-Modified directory: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default
-Modified file: C:\\Users\junhyun\AppData\Roaming\Mozilla\Firefox\Profiles\aj0ua7wb.default\key3.db
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\contentHashes.dat
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\caches\records.dat
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
-Modified file: C:\\Users\junhyun\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Sessions\Session_13264849194536424
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Created file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\48349e3d-1c7b-4f13-a891-66a00375efab.tmp
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\48349e3d-1c7b-4f13-a891-66a00375efab.tmp
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\48349e3d-1c7b-4f13-a891-66a00375efab.tmp
-Created file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State~RF13897087.TMP
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Deleted file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State~RF13897087.TMP
-Moved file: from C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State to C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State~RF13897087.TMP
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\48349e3d-1c7b-4f13-a891-66a00375efab.tmp
-Moved file: from C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\48349e3d-1c7b-4f13-a891-66a00375efab.tmp to C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State
-Modified directory: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State
-Deleted file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State~RF13897087.TMP
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\todoindex\values.values.at
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\todoindex\values_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\todoindex\values
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId.keystream
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\todoindex\compositeHashId
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\fileIdToHashId_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\fileIdToHashId
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\idindex\values.values.at
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\idindex\values_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\idindex\values
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId.keystream.len
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId.keystream
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\idindex\compositeHashId
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\trigram.index\fileIdToHashId_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\trigram.index\fileIdToHashId
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\trigram.index\values.values.at
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\trigram.index\values_i
-Modified file: C:\\Users\junhyun\AppData\Local\JetBrains\PyCharm2021.1\index\.persistent\trigram.index\values
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess32.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\Log\StSess.log
-Modified file: D:\\DEV\drive_watcher\erpy\prj\pc_log.txt
-Modified directory: C:\\Program Files\AhnLab\Safe Transaction\DB
-Created file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
-Modified file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db
-Deleted file: C:\\Program Files\AhnLab\Safe Transaction\DB\schedule.db-journal
-Modified file: C:\\Users\junhyun\AppData\Local\Google\Chrome\User Data\Default\Sessions\Session_13264849194536424

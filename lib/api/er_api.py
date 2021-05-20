@@ -122,5 +122,9 @@ def set_targets(paths):
 def er_api(paths):
     api = Api()
 
-    if paths:
-        api.post("/schedules", set_targets(paths))
+    # 스케줄 실행
+    # if paths:
+    #     api.post("/schedules", set_targets(paths))
+
+    # 스케줄 삭제
+    api.cancelScheduledByTargetId()
